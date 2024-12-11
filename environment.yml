@@ -1,0 +1,9 @@
+name: soybeans-progress
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - geopandas
+  - jupyter
+  - pyproj
+  - seaborn
